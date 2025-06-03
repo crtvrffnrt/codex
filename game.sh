@@ -3,7 +3,7 @@
 # Simple snake game for the terminal.
 # Use arrow keys to change direction. Press 'q' to quit.
 # Tested on bash 4+.
-
+# comment
 WIDTH=20
 HEIGHT=10
 
