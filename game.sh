@@ -4,8 +4,12 @@
 # Use arrow keys to change direction. Press 'q' to quit.
 # Tested on bash 4+.
 # comment
-WIDTH=20
-HEIGHT=10
+
+WIDTH=20  # Set the width and height of the game area
+HEIGHT=10 # Set the width and height of the game area
+
+
+let=# Set terminal to raw mode"
 
 SNAKE_X=(5 4 3)
 SNAKE_Y=(5 5 5)
